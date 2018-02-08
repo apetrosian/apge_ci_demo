@@ -1,0 +1,6 @@
+{
+	"demoApi": {
+		"domain": "apetrosian-eval-test.apigee.net",
+		"basepath": "/demo"
+	}
+}

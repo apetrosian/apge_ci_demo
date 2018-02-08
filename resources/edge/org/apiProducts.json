@@ -1,0 +1,25 @@
+[
+    {
+        "name": "CurrencyProduct",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "CurrencyProduct"
+            }
+        ],
+        "description": "Currency Product",
+        "displayName": "CurrencyProduct",
+        "environments": [
+            "edge_env"
+        ],
+        "proxies": [
+            "currency-v1"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]
